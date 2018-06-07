@@ -1,4 +1,4 @@
-# AngularFirebaseTasks
+# Lista de Tarefas do Curso de Angular Material e Firebase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
